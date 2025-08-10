@@ -16,5 +16,3 @@ Link para a Tela de Login: [Tela de Login](https://lerraji-sousa.github.io/Tela-
 - **CSS**: Para estilizar a tela de login.
 
 <!-- Testando GitHub Actions -->
-
-...
